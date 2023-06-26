@@ -10,5 +10,5 @@ def main():
 
 
 if __name__ == '__main__':
-    sub1, sub2, merged_str = main()
+    main()
    
